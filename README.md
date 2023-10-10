@@ -1,7 +1,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&center=true&pause=300&multiline=true&random=false&width=600&height=70&lines=%22%D0%A2%D0%BE%2C+%D1%87%D1%82%D0%BE+%D0%BD%D0%B0%D1%81+%D0%BD%D0%B5+%D1%83%D0%B1%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%2C+%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82+%D0%BD%D0%B0%D1%81+%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%B5%D0%B5%22;%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85+%D0%9D%D0%B8%D1%86%D1%88%D0%B5" alt="Typing SVG" /></a></h3>
 
 
-<h3 align="center"><b>Всем привет! Меня зовут Евгений. Я Java разработчик</b></h3>
+<h1 align="center"><b>Всем привет! Меня зовут Евгений. Я Java разработчик</b></h1>
 
 ## About me:
  - Имею диплом с отличием по специальности "Информационные системы и программирование";
