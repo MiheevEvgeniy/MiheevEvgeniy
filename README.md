@@ -27,6 +27,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiheevEvgeniy&hide=tcl,inno%20setup,vba,smarty&theme=tokyonight)
 
 ## Contacts:
-[![WhatsApp Badge](https://img.shields.io/badge/-+79252401637-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.clck.bar/79252401637)](https://wa.clck.bar/79252401637)
 [![Telegram Badge](https://img.shields.io/badge/-@EvgeniyMikheev123-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/xeviaara)](https://t.me/EvgeniyMikheev123)
 [![Static Badge](https://img.shields.io/badge/-zhenya939393%40yandex.ru-ffcc00?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto:pursecookie@yandex.ru)](zhenya939393@yandex.ru)
